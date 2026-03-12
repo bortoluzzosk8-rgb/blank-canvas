@@ -1,1 +1,0 @@
-ALTER TABLE public.sales ADD COLUMN IF NOT EXISTS discount_value numeric DEFAULT 0;

@@ -1,1 +1,0 @@
-ALTER TABLE settings ADD COLUMN IF NOT EXISTS company_signature_url text;

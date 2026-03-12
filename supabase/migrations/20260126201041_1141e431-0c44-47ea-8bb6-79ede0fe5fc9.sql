@@ -1,1 +1,0 @@
-ALTER TABLE public.sales ADD COLUMN monitor_id UUID REFERENCES public.monitors(id);
