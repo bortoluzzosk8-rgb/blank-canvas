@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX IF NOT EXISTS user_franchises_user_id_unique ON public.user_franchises (user_id);

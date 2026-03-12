@@ -1,0 +1,1 @@
+ALTER TABLE public.settings ALTER COLUMN catalog_header_title SET DEFAULT 'Título Principal';
