@@ -1,9 +1,0 @@
-export { Header } from './Header';
-export { Hero } from './Hero';
-export { Segments } from './Segments';
-export { Problems } from './Problems';
-export { Solutions } from './Solutions';
-export { BeforeAfter } from './BeforeAfter';
-export { Plans } from './Plans';
-export { FAQ } from './FAQ';
-export { Footer } from './Footer';
